@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atharva2031
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Core C/C++ Development
-- 💞️ I’m looking to collaborate on basic projects
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python/MYSQL
+- 💞️ I’m looking to collaborate on basic data science projects
 - 📫 How to reach me email me at atharvad467@gmail.com
 
 <!---
