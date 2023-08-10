@@ -1,4 +1,4 @@
-Go Developer || Flutter Developer || PostgreSQL
+Flutter Developer || PostgreSQL || Go
 Know a bit about Machine Learning and Data Analytics as well
 
 <!---
